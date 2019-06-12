@@ -2,7 +2,7 @@
 My first project using HTML, custom CSS and Bootstrap
 
 ## Additional Info
-The task was to build this project based a pdf image to incorporate bootstrap components, cards, images, a video and additional styling.
+The task was to build the project based on a pdf image incorporating Bootstrap components, cards, images, a video and additional styling.
 
 ## Reference
 [Bootstrap](https://getbootstrap.com/)
